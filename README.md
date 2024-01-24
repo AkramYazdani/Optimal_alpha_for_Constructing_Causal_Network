@@ -1,6 +1,4 @@
-# Colorectal_Cancer_Causal_Network
-Identifying optimal alpha for constructing transcriptomic causal network.
-
+# Identifying optimal alpha for constructing transcriptomic causal network.
 The gene expression data used in this study are publicly available in Gene Expression Omnibus at GSE196576. 
 
 We initially employed k-mean clustering and clustered genes in 4 classes. We then built a data-driven network for each cluster based on an order-independent implementation of the conditional independence properties, i.e., directed acyclic graph (DAG), learning PC-algorithm.
