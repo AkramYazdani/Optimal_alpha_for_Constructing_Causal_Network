@@ -1,1 +1,2 @@
-The script identifies the optimal alpha for constructing networks using piecewise regression and Hamming distance.
+SPOT (Sparse Optimal Topology) is an approach for estimating the sparsity level of a network's topology.
+SPOT uses piecewise regression on Hamming distances calculated across a range of sparsity parameters.
